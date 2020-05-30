@@ -1,18 +1,16 @@
 <!DOCTYPE html>
 <html  >
 <head>
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-75c0550f-a6f9-4f32-916a-7334d5e8d3d7"></div>
   <!-- Site made with Mobirise Website Builder v4.12.3, https://mobirise.com -->
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Mobirise v4.12.3, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/2019-ncov-cdc-23312-without-background-128x129.png" type="image/x-icon">
-  <meta name="description" content="The website for the upcoming Kerberos Commitee Stream.">
+  <meta name="description" content="The website for the upcoming HackCoronavirusStream.">
   
   
-  <title>Home</title>
+  <title>Stream for GiveDirectly COVID-19 Response</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
@@ -31,7 +29,7 @@
 
     
 
-    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center collapsed">
+    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <div class="hamburger">
                 <span></span>
@@ -42,12 +40,8 @@
         </button>
         <div class="menu-logo">
             <div class="navbar-brand">
-                <span class="navbar-logo">
-                    
-                        <img src="assets/images/yeehye-cropped-1-122x122.png" alt="" title="HackCoronavirusStream" style="height: 3.8rem;">
-                    
-                </span>
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-primary display-5" href="index.html">Kerberos Commitee Stream</a></span>
+                
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-primary display-5" href="index.html">HackCoronavirusStream</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -63,7 +57,7 @@
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.info/o">free portfolio site templates</a></section><section class="header4 cid-rYyxeBz9Xt" id="header4-1">
+<section class="engine"><a href="https://mobirise.info/c">free site builder</a></section><section class="header4 cid-rYyxeBz9Xt" id="header4-1">
 
     
 
@@ -72,27 +66,20 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class="media-content col-md-10">
-                <h1 class="mbr-section-title align-center mbr-white pb-3 mbr-bold mbr-fonts-style display-1">Kerberos Commitee Stream</h1>
+                <h1 class="mbr-section-title align-center mbr-white pb-3 mbr-bold mbr-fonts-style display-1">Stream for GiveDirectly COVID-19 Response</h1>
                 
                 <div class="mbr-text align-center mbr-white pb-3">
                     
                 </div>
                 
             </div>
+            <!-- TODO: Put new logo here
+            <div class="mbr-figure pt-5">
+                <img src="assets/images/banner.png" alt="Stream for GiveDirectly COVID-19 Response" title="" style="width: 85%;">
+            </div>
+            -->
         </div>
     </div>
-</section>
-
-<section class="cid-rZnlsDUsPP" id="image2-1c">
-
-    
-
-    <figure class="mbr-figure container">
-        <div class="image-block" style="width: 100%;">
-            <img src="assets/images/untitled-1-recovhjered-1443x481.png" alt="Mobirise" title="">
-            
-        </div>
-    </figure>
 </section>
 
 <section class="mbr-section article content10 cid-rYDzeS5Tlo" id="content10-18">
@@ -103,14 +90,10 @@
         <div class="inner-container" style="width: 100%;">
             <hr class="line" style="width: 19%;">
             <div class="section-text align-center mbr-white mbr-fonts-style display-5"><strong><em>Who</em></strong>
-<div>&nbsp; &nbsp; &nbsp; &nbsp; •<a href="https://www.youtube.com/channel/UCD2RIZRaVkYQ_uSRnP-oPYg" target="_blank" class="text-danger">Insomniac</a></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•<a href="https://www.youtube.com/channel/UCp5-zh7zPaV_GQJgDCDS0vA" target="_blank" class="text-danger">xxVinegar</a></div><div>&nbsp; &nbsp; &nbsp; &nbsp; •<a href="https://www.youtube.com/channel/UCls1kDleLcTDIhGVBkWu4Ug" target="_blank" class="text-danger">SKLD</a></div><div>&nbsp; &nbsp; &nbsp; &nbsp; •<a href="https://www.twitch.tv/synxyboii" target="_blank" class="text-danger">Synxyboii
+<div>&nbsp; &nbsp; &nbsp; &nbsp; •<a href="https://www.youtube.com/channel/UCD2RIZRaVkYQ_uSRnP-oPYg" target="_blank" class="text-danger">Insomniac</a></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•<a href="https://www.pscp.tv/krisangelis/1YqJDnaBvYvKV" target="_blank" class="text-danger">Kris Angelis</a></div><div>&nbsp; &nbsp; &nbsp; &nbsp; •<a href="https://www.twitch.tv/synxyboii" target="_blank" class="text-danger">Synxyboii
 </a></div><div>&nbsp; &nbsp; &nbsp; &nbsp; •<a href="https://www.youtube.com/channel/UCxfb6N92LrYergf2ubfQV1g" target="_blank" class="text-danger">Xancor
-</a></div><div>&nbsp; &nbsp; &nbsp; &nbsp; •<a href="https://www.twitch.tv/jugheadlmao" target="_blank" class="text-danger">Jugheadlmao
-</a></div><div>&nbsp; &nbsp; &nbsp; &nbsp; •<a href="https://www.twitch.tv/troyanthony" target="_blank" class="text-danger">TroyAnthony
-</a></div><div>&nbsp; &nbsp; &nbsp; &nbsp; •<a href="https://www.youtube.com/channel/UCdrPkuiA1hIbCeLEFgMbfIw" target="_blank" class="text-danger">Huff in the A.M              
-</a></div><div>&nbsp; &nbsp; &nbsp; &nbsp; •<a href="https://www.periscope.tv/raypay2/1nAKEdZePWZxL" target="_blank" class="text-danger">Raypay2</a>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•<a href="https://www.youtube.com/channel/UCnlx1v8gD-xyuwAoHxo4BMA" target="_blank" class="text-danger">Sasuke Uchiha</a>&nbsp;&nbsp;&nbsp;&nbsp;</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•<a href="https://www.youtube.com/channel/UC0ZTphwXSxW9jmmlp-oEPDA" target="_blank" class="text-danger">Neet-Senpai</a>&nbsp;&nbsp;&nbsp;&nbsp;</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•<a href="https://www.youtube.com/channel/UC7S-8Ny5147V2H-cYwiDsCA" target="_blank" class="text-danger">Alpha Wolf&nbsp;&nbsp;&nbsp;&nbsp;</a></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•<a href="https://www.youtube.com/channel/UCbYJbYIp8Opzlkh_dEGhQhg" target="_blank" class="text-danger">Nindeku</a>&nbsp;&nbsp;&nbsp;&nbsp;</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•<a href="https://www.youtube.com/channel/UCi0TBWe4b1KGjjdulW5aO_w" target="_blank" class="text-danger">Bulla Boo&nbsp;&nbsp;&nbsp;&nbsp;</a></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•<a href="https://www.youtube.com/channel/UCyo0udok_sMTKTVxkiT6Qqw" target="_blank" class="text-danger">B-SQUAD GOKU</a>&nbsp;&nbsp;&nbsp;&nbsp;</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•<a href="https://www.youtube.com/channel/UCnlx1v8gD-xyuwAoHxo4BMA" target="_blank" class="text-danger">Sasuke Uchiha</a></div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•<a href="https://www.pscp.tv/LeleondaKeys/" target="_blank" class="text-danger">Lele Rose</a></div>
-<div><span style="font-size: 1.5rem;">&nbsp; &nbsp; &nbsp; &nbsp; •More streamers and performers to be announced!</span><br></div><div><strong><em>What
+</a></div><div>&nbsp; &nbsp; &nbsp; &nbsp; •<a href="https://www.periscope.tv/raypay2/1nAKEdZePWZxL" target="_blank" class="text-danger">Raypay2</a>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•<a href="https://www.youtube.com/channel/UCnlx1v8gD-xyuwAoHxo4BMA" target="_blank" class="text-danger">Sasuke Uchiha</a>&nbsp;&nbsp;&nbsp;&nbsp;</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•<a href="https://www.youtube.com/channel/UC0ZTphwXSxW9jmmlp-oEPDA" target="_blank" class="text-danger">Neet-Senpai</a>&nbsp;&nbsp;&nbsp;&nbsp;</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•<a href="https://www.youtube.com/channel/UC7S-8Ny5147V2H-cYwiDsCA" target="_blank" class="text-danger">Alpha Wolf&nbsp;&nbsp;&nbsp;&nbsp;</a></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•<a href="https://www.youtube.com/channel/UCbYJbYIp8Opzlkh_dEGhQhg" target="_blank" class="text-danger">Nindeku</a>&nbsp;&nbsp;&nbsp;&nbsp;</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•<a href="https://www.youtube.com/channel/UCi0TBWe4b1KGjjdulW5aO_w" target="_blank" class="text-danger">Bulla Boo&nbsp;&nbsp;&nbsp;&nbsp;</a></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•<a href="https://www.youtube.com/channel/UCyo0udok_sMTKTVxkiT6Qqw" target="_blank" class="text-danger">B-SQUAD GOKU</a>&nbsp;&nbsp;&nbsp;&nbsp;</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•<a href="https://www.youtube.com/channel/UCnlx1v8gD-xyuwAoHxo4BMA" target="_blank" class="text-danger">Sasuke Uchiha</a></div><div>&nbsp; &nbsp; &nbsp; &nbsp; •More streamers and performers to be announced!
+</div><div><strong><em>What
 </em></strong></div><div>&nbsp; &nbsp; &nbsp; &nbsp;•Tournaments ** Yu-Gi-Oh: Duel Links ** Wizard101
 </div><div>&nbsp; &nbsp; &nbsp; &nbsp; •Friendly games ** Minecraft ** Cards Against Humanity **                 Mario Kart
 </div><div>&nbsp; &nbsp; &nbsp; &nbsp; •Songs and prank calls
@@ -118,14 +101,15 @@
 </div><div><strong><em>When
 </em></strong></div><div>&nbsp; &nbsp; &nbsp; &nbsp; •20 hours starting Saturday August 1, 2020, 6am EDT (10am UTC).
 </div><div><strong><em>Where
-</em></strong></div><div>&nbsp; &nbsp; &nbsp; &nbsp; •On the <a href="https://www.youtube.com/channel/UCp5-zh7zPaV_GQJgDCDS0vA" target="_blank" class="text-danger">xxVinegar</a> Youtube Channel and the <a href="https://www.twitch.tv/jugheadlmao" target="_blank" class="text-danger">Jugheadlmao</a> Twitch.</div><div><strong><em>Why
-</em></strong></div><div>&nbsp; &nbsp; &nbsp; &nbsp; •To raise money for Global Giving and No Child Hungry which will help deal with the COVID-19 crisis in a cost- effective manner.</div><br><div>Our Discord Server <a href="https://discord.gg/JJwstGf" target="_blank" class="text-danger">https://discord.gg/JJwstGf</a></div></div>
+</em></strong></div><div>&nbsp; &nbsp; &nbsp; &nbsp; •On a YouTube and a Twitch channel to be determined.
+</div><div><strong><em>Why
+</em></strong></div><div>&nbsp; &nbsp; &nbsp; &nbsp; •To raise money for a charity (to be announced) which will          help deal with the COVID-19 crisis in a cost- effective manner.</div></div>
             <hr class="line" style="width: 19%;">
         </div>
     </div>
 </section>
 
-<section once="footers" class="cid-rZnmdHS995" id="footer7-1g">
+<section once="footers" class="cid-rYyUmCoLwU" id="footer7-i">
 
     
 
@@ -140,7 +124,7 @@
                     
                     
                     
-                <li class="foot-menu-item mbr-fonts-style display-7"><a href="page1.html" class="text-white">Schedule</a></li><li class="foot-menu-item mbr-fonts-style display-7"><p><a href="page2.html"></a><a href="page2.html" class="text-white">Contact </a><a href="page2.html" class="text-white">Us</a></p></li><li class="foot-menu-item mbr-fonts-style display-7"><a href="page3.html" class="text-white">Streamers</a></li></ul>
+                <li class="foot-menu-item mbr-fonts-style display-7"><a href="page1.html" class="text-white">Schedule</a></li><li class="foot-menu-item mbr-fonts-style display-7"><p><a href="page2.html"></a><a href="page2.html" class="text-white">Contact </a><a href="page2.html" class="text-white">Us</a></p></li></ul>
             </div>
             <div class="row social-row">
                 <div class="social-list align-right pb-2">
@@ -177,6 +161,11 @@
   <script src="assets/witsec-mailform/witsec-mailform.js"></script>
   
   
+<<<<<<< HEAD
   <input name="animation" type="hidden">
   </body>
 </html>
+=======
+</body>
+</html>
+>>>>>>> d3ee416... Update title, remove out-of-date banner
